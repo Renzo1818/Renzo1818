@@ -18,13 +18,14 @@
 ### Lenguajes de programación:
 &emsp;
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
-![C#](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 
 
 ### Frameworks
 ![Springboot](https://img.shields.io/badge/-Springboot-000?&logo=Springboot)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Material-UI](https://img.shields.io/badge/-Material--UI-000?&logo=Material-UI)
 
@@ -34,6 +35,11 @@
 ![SQL Server](https://img.shields.io/badge/-Sql%20Server-000?&logo=microsoft-sql-server)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 
+
+### Análisis de Datos
+&emsp;
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=PowerBI&logoColor=white)
 
 ### Herramientas:
 &emsp;
