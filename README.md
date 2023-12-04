@@ -17,9 +17,9 @@
 -------------------
 ### Lenguajes de programación:
 &emsp;
-![Java](https://img.shields.io/badge/-Java-000?&logo=java)
+![Java]([https://img.shields.io/badge/-Java-000?&logo=java](https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white))
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B)
+![C++]([https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B))
 
 ### Frameworks
 ![Springboot](https://img.shields.io/badge/-Springboot-000?&logo=Springboot)
