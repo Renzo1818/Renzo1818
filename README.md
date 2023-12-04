@@ -19,6 +19,7 @@
 &emsp;
 ![Java](https://img.shields.io/badge/-Java-000?&logo=java)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B)
 
 ### Frameworks
 ![Springboot](https://img.shields.io/badge/-Springboot-000?&logo=Springboot)
