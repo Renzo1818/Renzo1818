@@ -72,7 +72,7 @@
 <td width="50%">
 <h3 align="center">Biblioteca virtual</h3>
 <div align="center">
-<a href="https://github.com/Renzo1818/biblioteca-backend/tree/main" target="_blank"><img src="![Bibliote](https://github.com/Renzo1818/Renzo1818/assets/93232895/08f52644-7979-4fb8-8551-cbb9132e5cec)" width="400" alt="Biblioteca virtual"></a>
+<a href="https://github.com/Renzo1818/biblioteca-backend/tree/main" target="_blank"><img src="https://renzo1818.github.io/RenzoZavaleta.github.io/images/Bibliote.png" width="400" alt="Biblioteca virtual"></a>
 <p>
 <a href="https://github.com/Renzo1818/biblioteca-backend/tree/main" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
