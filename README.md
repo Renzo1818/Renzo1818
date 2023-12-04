@@ -66,6 +66,82 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Proyectos destacados
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Biblioteca virtual</h3>
+<div align="center">
+<a href="https://github.com/Renzo1818/biblioteca-backend/tree/main" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Biblioteca virtual"></a>
+<p>
+<a href="https://github.com/Renzo1818/biblioteca-backend/tree/main" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>Creación de entidades y servicios <strong> RESTful Api </strong> utilizando <strong> Stringboot data JPA </strong> la implementación de la seguridad de las APIs utilizando <strong> JWT y Springboot Security</strong>.</p>
+</div>
+                                                                                      
+</td>
+
+<td width="50%">
+               <br>
+<h3 align="center">Sistema de prestamo virtual</h3>
+<div align="center">                                       
+<a href="https://github.com/Renzo1818/Portafolio_RenzoZavaleta/tree/main/ASP.NET%20CORE%20MVC" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Curso arquitectura MVVM"></a>
+<br>
+<p>
+<a href="https://github.com/Renzo1818/Portafolio_RenzoZavaleta/tree/main/ASP.NET%20CORE%20MVC" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+</p>Desarrollo de un sistema de prestamo, aplicando la arquitectura de software <strong>MVC</strong> y capa de servicios. Asimismo, la creación de tablas, vistas y más en <strong>SQL SERVER</strong>.</p>
+</div>                                                             
+</table>                                                                                 
+</div>
+<br>
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Curso Android Intermedio</h3>
+<div align="center">
+<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank"><img src="https://i.imgur.com/V48W0sU.jpg" width="400" alt="Curso intermedio Android"></a>
+<p>
+<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://youtu.be/UaR7GSNACsM" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+</a>
+</p>
+<p>Aprende a programar aplicaciones <strong>Android con Kotlin nivel intermedio</strong> - En este curso nos centraremos en las <strong>buenas prácticas, arquitectura y testing</strong>. Curso <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>
+</div>
+                                                                                      
+</td>       
+
+<td width="50%">
+<h3 align="center">Curso Kotlin Multiplatform</h3>
+<div align="center">
+<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank"><img src="https://i.imgur.com/nDDp1Ra.jpg" width="400" alt="Curso Kotlin Multiplatform"></a>
+<p>
+<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://youtube.com/playlist?list=PL8ie04dqq7_NUvBcMMosVRAbqZDWmRzX3&si=FdS-Z07ZFAUjDHAE" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
+</a>
+</p>
+<p>Aprende a programar aplicaciones <strong>multiplataform con Kotlin y Jetpack Compose</strong> - En este curso nos centraremos en dominar Kotlin Multiplatform <strong>desde cero</strong>. Curso <strong>GRATUITO</strong> (en desarrollo) con todo el código disponible para descargar.</p>
+</div>
+                                                                                      
+</td>  
+</table>                                                                                 
+</div>
+<br>
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
  
  <!--- stats & Trophy (start) -->
