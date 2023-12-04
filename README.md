@@ -13,6 +13,37 @@
 </div>
 
 
+## 🛠️ My Skills
+-------------------
+### Lenguajes de programación:
+&emsp;
+![Java](https://img.shields.io/badge/-Java-000?&logo=java)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+
+### Frontend development:
+&emsp;
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Material-UI](https://img.shields.io/badge/-Material--UI-000?&logo=Material-UI)
+
+### Misc tools:
+&emsp;
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
+![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
+
+### Databases:
+&emsp;
+![Oracle DB](https://img.shields.io/badge/-OracleDatabase-000?&logo=Oracle)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+
+
+
+
+&emsp;
+
+
+
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
  
  <!--- stats & Trophy (start) -->
@@ -34,18 +65,6 @@
   </td>
 </tr>
 </table>
-  
-  
-  
-  
-  
-  <br>
-  
-| ![Renzo1818's github stats](https://github-readme-stats.vercel.app/api?username=Renzo1818&show_icons=true&theme=tokyonight) | ![Renzo1818 GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Renzo1818&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Renzo1818&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Renzo1818&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
-
-<br>
 
 
 
