@@ -20,6 +20,12 @@
 ![Java](https://img.shields.io/badge/-Java-000?&logo=java)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 
+### Databases:
+&emsp;
+![Oracle DB](https://img.shields.io/badge/-OracleDatabase-000?&logo=Oracle)
+![SQL Server](https://img.shields.io/badge/-Sql%20Server-000?&logo=microsoft-sql-server)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+
 ### Frontend development:
 &emsp;
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
@@ -30,13 +36,6 @@
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
-
-### Databases:
-&emsp;
-![Oracle DB](https://img.shields.io/badge/-OracleDatabase-000?&logo=Oracle)
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
-
-
 
 
 &emsp;
