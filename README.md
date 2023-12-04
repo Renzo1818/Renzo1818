@@ -19,8 +19,8 @@
 <br>
 
 - Java Developer | Data Analyst
-- Portafolio Personal [link](https://renzo1818.github.io/RenzoZavaleta.github.io/)
-- Actualmente, estoy abierto a una nueva oportunidad laboral, este es mi [Linkedin]([https://read.cv/0xabdulkhalid](https://www.linkedin.com/in/renzo-zavaleta-reyes/))
+- Tengo un ![Portafolio de proyectos personales](https://renzo1818.github.io/RenzoZavaleta.github.io/) con todos los proyectos realizados a lo largo de mi carrera
+- Actualmente, estoy abierto a una nueva oportunidad laboral, este es mi ![Linkedin]([https://read.cv/0xabdulkhalid](https://www.linkedin.com/in/renzo-zavaleta-reyes/))
 
 <br><br>
 
