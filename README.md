@@ -13,25 +13,26 @@
 </div>
 
 
-## 🛠️ My Skills
+## 🛠️ Mis Skills
 -------------------
 ### Lenguajes de programación:
 &emsp;
 ![Java](https://img.shields.io/badge/-Java-000?&logo=java)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 
-### Databases:
+### Frameworks
+![Springboot](https://img.shields.io/badge/-Springboot-000?&logo=Springboot)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Material-UI](https://img.shields.io/badge/-Material--UI-000?&logo=Material-UI)
+
+### Bases de datos:
 &emsp;
 ![Oracle DB](https://img.shields.io/badge/-OracleDatabase-000?&logo=Oracle)
 ![SQL Server](https://img.shields.io/badge/-Sql%20Server-000?&logo=microsoft-sql-server)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 
-### Frontend development:
-&emsp;
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Material-UI](https://img.shields.io/badge/-Material--UI-000?&logo=Material-UI)
 
-### Misc tools:
+### Herramientas:
 &emsp;
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
