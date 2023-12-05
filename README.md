@@ -105,7 +105,7 @@
 <td width="50%">
 <h3 align="center">Análisis de datos: COVID-19 - Perú</h3>
 <div align="center">
-<a href="https://github.com/Renzo1818/Analisis-Datos-COVID19" target="_blank"><img src="https://camo.githubusercontent.com/ffd4200eba71ad569091fb24f9771f6ff31052946b9981539491d78905680b3c/68747470733a2f2f69657863656c2e696e2f77702d636f6e74656e742f75706c6f6164732f323032302f30352f506f7765722d42692d312d383530783434302e6a7067" width="400" alt="Análisis de datos COVID19"></a>
+<a href="https://github.com/Renzo1818/Analisis-Datos-COVID19" target="_blank"><img src="https://renzo1818.github.io/RenzoZavaleta.github.io/images/dashboard%20mapa.png" width="400" alt="Análisis de datos COVID19"></a>
 <p>
 <a href="https://github.com/Renzo1818/Analisis-Datos-COVID19" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
