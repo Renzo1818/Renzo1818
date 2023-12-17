@@ -18,7 +18,7 @@
 
 <br>
 
-- Java Developer | Data Analyst
+- Data Analyst | ETL process
 - Tengo un [Portafolio de proyectos personales](https://renzo1818.github.io/RenzoZavaleta.github.io/) con todos los proyectos realizados a lo largo de mi carrera
 - Actualmente, estoy abierto a una nueva oportunidad laboral, este es mi [Linkedin](https://www.linkedin.com/in/renzo-zavaleta-reyes/)
 
@@ -30,17 +30,18 @@
 
 ### Lenguajes de programación:
 &emsp;
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 
 
 ### Frameworks
+![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas)
+![PySpark](https://img.shields.io/badge/-PySpark-000?&logo=PySpark)
 ![Springboot](https://img.shields.io/badge/-Springboot-000?&logo=Springboot)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Material-UI](https://img.shields.io/badge/-Material--UI-000?&logo=Material-UI)
+
 
 ### Bases de datos:
 &emsp;
