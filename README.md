@@ -40,7 +40,6 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas)
 ![PySpark](https://img.shields.io/badge/-PySpark-000?&logo=PySpark)
 ![Springboot](https://img.shields.io/badge/-Springboot-000?&logo=Springboot)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
 
 
 ### Bases de datos:
@@ -52,8 +51,8 @@
 
 ### Análisis de Datos
 &emsp;
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=PowerBI&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)
 
 ### Herramientas:
 &emsp;
