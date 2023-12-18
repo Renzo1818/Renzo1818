@@ -92,7 +92,7 @@
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Desarrollo de un sistema de ventas, aplicando el paradigma de la <strong>programación orientada a objetos</strong> y adoptando el patrón de <strong>arquictectura MVC</strong>. Asimismo, la creación de tablas, store procedures, vistas y más en <strong>MySQL</strong>.</p>
+<p>Creación del <strong>modelo relacional</strong> de la base de datos, <strong>tablas, constraints, vistas, procedimientos almacenados, funciones, triggers</strong> , entre otros.</p>
 </div>
                                                                                       
 </td>  
