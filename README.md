@@ -64,6 +64,39 @@
 
 &emsp;
 
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Análisis de datos: COVID-19 - Perú</h3>
+<div align="center">
+<a href="https://github.com/Renzo1818/Analisis-Datos-COVID19" target="_blank"><img src="https://renzo1818.github.io/RenzoZavaletaReyes.github.io/images/dashboard%20mapa.png" width="400" alt="Análisis de BIG DATA: COVID19"></a>
+<p>
+<a href="https://github.com/Renzo1818/Analisis-Datos-COVID19" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>El presente proyecto tiene como objetivo analizar los datos masivos proporcionados por la Plataforma Nacional de Datos Abiertos del MINSA. Entre los datos a analizar estan: casos confirmados COVID-19, registro vacunación, entre otras. Utilizando <strong>Oracle DB 19c, Microsoft Power BI</strong>, entre otros.</p>
+</div>
+                                                                                      
+</td>       
+
+<td width="50%">
+<h3 align="center">Base de datos para un Gimnasio</h3>
+<div align="center">
+<a href="https://github.com/Renzo1818/Portafolio_RenzoZavaleta/tree/main/DISE%C3%91O%20BD%20-%20GIMNASIO" target="_blank"><img src="https://renzo1818.github.io/RenzoZavaletaReyes.github.io/images/mssqlserver.png" width="400" alt="Sistema de venta"></a>
+<p>
+<a href="https://github.com/Renzo1818/Portafolio_RenzoZavaleta/tree/main/DISE%C3%91O%20BD%20-%20GIMNASIO" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>Desarrollo de un sistema de ventas, aplicando el paradigma de la <strong>programación orientada a objetos</strong> y adoptando el patrón de <strong>arquictectura MVC</strong>. Asimismo, la creación de tablas, store procedures, vistas y más en <strong>MySQL</strong>.</p>
+</div>
+                                                                                      
+</td>  
+</table>                                                                                 
+</div>
+<br>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -97,39 +130,6 @@
 </p>
 </p>Desarrollo de un sistema de prestamo, aplicando la arquitectura de software <strong>MVC</strong> y capa de servicios. Asimismo, la creación de tablas, vistas y más en <strong>SQL SERVER</strong>.</p>
 </div>                                                             
-</table>                                                                                 
-</div>
-<br>
-
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Análisis de datos: COVID-19 - Perú</h3>
-<div align="center">
-<a href="https://github.com/Renzo1818/Analisis-Datos-COVID19" target="_blank"><img src="https://renzo1818.github.io/RenzoZavaleta.github.io/images/dashboard%20mapa.png" width="400" alt="Análisis de datos COVID19"></a>
-<p>
-<a href="https://github.com/Renzo1818/Analisis-Datos-COVID19" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-</p>
-<p>El presente proyecto tiene como objetivo analizar los datos masivos proporcionados por la Plataforma Nacional de Datos Abiertos del MINSA. Entre los datos a analizar estan: casos confirmados COVID-19, registro vacunación, entre otras. Utilizando <strong>Oracle DB 19c, Microsoft Power BI</strong>, entre otros.</p>
-</div>
-                                                                                      
-</td>       
-
-<td width="50%">
-<h3 align="center">Sistema de venta</h3>
-<div align="center">
-<a href="https://github.com/Renzo1818/Portafolio_RenzoZavaleta/tree/main/JAVA%20MVC" target="_blank"><img src="https://renzo1818.github.io/RenzoZavaleta.github.io/images/img%20sistemaventa.png" width="400" alt="Sistema de venta"></a>
-<p>
-<a href="https://github.com/Renzo1818/Portafolio_RenzoZavaleta/tree/main/JAVA%20MVC" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
-</a>
-</p>
-<p>Desarrollo de un sistema de ventas, aplicando el paradigma de la <strong>programación orientada a objetos</strong> y adoptando el patrón de <strong>arquictectura MVC</strong>. Asimismo, la creación de tablas, store procedures, vistas y más en <strong>MySQL</strong>.</p>
-</div>
-                                                                                      
-</td>  
 </table>                                                                                 
 </div>
 <br>
