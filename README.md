@@ -70,7 +70,7 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Análisis de datos: COVID-19 - Perú</h3>
+<h3 align="center">Análisis de BIG DATA: COVID-19 - Perú</h3>
 <div align="center">
 <a href="https://github.com/Renzo1818/Analisis-Datos-COVID19" target="_blank"><img src="https://renzo1818.github.io/RenzoZavaletaReyes.github.io/images/dashboard%20mapa.png" width="400" alt="Análisis de BIG DATA: COVID19"></a>
 <p>
