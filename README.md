@@ -30,15 +30,16 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Análisis de BIG DATA: COVID-19 - Perú</h3>
+<h3 align="center">DATA PIPELINE Y ANALÍTICA: COVID-19 - Perú</h3>
 <div align="center">
-<a href="https://github.com/Renzo1818/Analisis-Datos-COVID19" target="_blank"><img src="https://renzo1818.github.io/RenzoZavaletaReyes.github.io/images/dashboard%20mapa.png" width="400" alt="Análisis de BIG DATA: COVID19"></a>
+<a href="https://github.com/Renzo1818/ETL-COVID" target="_blank"><img src="https://renzo1818.github.io/RenzoZavaletaReyes.github.io/images/dashboard%20mapa.png" width="400" alt="Análisis de BIG DATA: COVID19"></a>
 <p>
-<a href="https://github.com/Renzo1818/Analisis-Datos-COVID19" target="_blank">
+<a href="https://github.com/Renzo1818/ETL-COVID" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>El presente proyecto tiene como objetivo analizar los datos masivos proporcionados por la Plataforma Nacional de Datos Abiertos del MINSA. Entre los datos a analizar estan: casos confirmados COVID-19, registro vacunación, entre otras. Utilizando <strong>Oracle DB 19c, Microsoft Power BI</strong>, entre otros.</p>
+<p>El presente proyecto tiene como objetivo crear un data pipeline y su posterior análisis de los datos masivos proporcionados por la Plataforma Nacional de Datos Abiertos del MINSA. Entre los datos a analizar estan: casos confirmados COVID-19, registro vacunación, entre otras. Utilizando <strong>Data Factory para la ingesta y orquestación, 
+Data Lakehouse para el almacenamiento de datos en bruto, Databricks para la transformación, SQL Server Data Warehouse y Microsoft Power BI</strong>.</p>
 </div>
                                                                                       
 </td>       
@@ -64,31 +65,31 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Biblioteca virtual</h3>
+<h3 align="center">Análisis de BIG DATA: COVID-19 - Perú</h3>
 <div align="center">
-<a href="https://github.com/Renzo1818/biblioteca-backend/tree/main" target="_blank"><img src="https://renzo1818.github.io/RenzoZavaleta.github.io/images/Bibliote.png" width="400" alt="Biblioteca virtual"></a>
+<a href="https://github.com/Renzo1818/Analisis-Datos-COVID19" target="_blank"><img src="https://renzo1818.github.io/RenzoZavaletaReyes.github.io/images/dashboard%20mapa.png" width="400" alt="Análisis de BIG DATA: COVID19"></a>
 <p>
-<a href="https://github.com/Renzo1818/biblioteca-backend/tree/main" target="_blank">
+<a href="https://github.com/Renzo1818/Analisis-Datos-COVID19" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Creación de entidades y servicios <strong> RESTful Api </strong> utilizando <strong> Stringboot data JPA </strong> la implementación de la seguridad de las APIs utilizando <strong> JWT y Springboot Security</strong>.</p>
+<p>El presente proyecto tiene como objetivo analizar los datos masivos proporcionados por la Plataforma Nacional de Datos Abiertos del MINSA. Entre los datos a analizar estan: casos confirmados COVID-19, registro vacunación, entre otras. Utilizando <strong>Oracle DB 19c, Microsoft Power BI</strong>, entre otros.</p>
 </div>
                                                                                       
 </td>
 
 <td width="50%">
                <br>
-<h3 align="center">Sistema de prestamo virtual</h3>
+<h3 align="center">ETL incremental: Northwind</h3>
 <div align="center">                                       
-<a href="https://github.com/Renzo1818/Portafolio_RenzoZavaleta/tree/main/ASP.NET%20CORE%20MVC" target="_blank"><img src="https://renzo1818.github.io/RenzoZavaleta.github.io/images/main_admin.png" width="400" alt="Sistema de prestamo virtual"></a>
+<a href="https://github.com/Renzo1818/ETL-NORTHWIND" target="_blank"><img src="https://renzo1818.github.io/RenzoZavaletaReyes.github.io/images/GESTION%20DE%20ORDENES%20DASHBOARD.png" width="400" alt="Sistema de prestamo virtual"></a>
 <br>
 <p>
-<a href="https://github.com/Renzo1818/Portafolio_RenzoZavaleta/tree/main/ASP.NET%20CORE%20MVC" target="_blank">
+<a href="https://github.com/Renzo1818/ETL-NORTHWIND" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-</p>Desarrollo de un sistema de prestamo, aplicando la arquitectura de software <strong>MVC</strong> y capa de servicios. Asimismo, la creación de tablas, vistas y más en <strong>SQL SERVER</strong>.</p>
+</p>Desarrollo de un ETL incremental utilizando la herramienta de <strong>SQL Server Integration Services</strong> y almacenando los datos en <strong>Data Warehouse en SQL Server</strong>, <strong>automatización de ETL a través de Jobs (SQL Agent)</strong> y análisis de datos utilizando <strong>Power BI</strong>.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
