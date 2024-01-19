@@ -38,8 +38,7 @@
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>El presente proyecto tiene como objetivo crear un data pipeline y su posterior análisis de los datos masivos proporcionados por la Plataforma Nacional de Datos Abiertos del MINSA. Entre los datos a analizar estan: casos confirmados COVID-19, registro vacunación, entre otras. Utilizando <strong>Data Factory para la ingesta y orquestación, 
-Data Lakehouse para el almacenamiento de datos en bruto, Databricks para la transformación, SQL Server Data Warehouse y Microsoft Power BI</strong>.</p>
+<p>El presente proyecto tiene como objetivo crear un data pipeline y su posterior análisis de los datos masivos proporcionados por la Plataforma Nacional de Datos Abiertos del MINSA. Utilizando <strong>Data Factory para la ingesta y orquestación, Data Lakehouse para el almacenamiento de datos en bruto, Databricks para la transformación, SQL Server Data Warehouse y Microsoft Power BI</strong>.</p>
 </div>
                                                                                       
 </td>       
