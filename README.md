@@ -26,46 +26,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-
-### Lenguajes de programación:
-&emsp;
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
-
-
-### Frameworks
-&emsp;
-![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas)
-![PySpark](https://img.shields.io/badge/-PySpark-000?&logo=PySpark)
-![Springboot](https://img.shields.io/badge/-Springboot-000?&logo=Springboot)
-
-
-### Bases de datos:
-&emsp;
-![Oracle DB](https://img.shields.io/badge/-OracleDatabase-000?&logo=Oracle)
-![SQL Server](https://img.shields.io/badge/-Sql%20Server-000?&logo=microsoft-sql-server)
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
-
-
-### Análisis de Datos
-&emsp;
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=PowerBI&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)
-
-### Herramientas:
-&emsp;
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
-![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
-
-
-&emsp;
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Proyectos destacados
 <table>
 <tr>
@@ -134,6 +94,45 @@
 </div>
 <br>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+
+### Lenguajes de programación:
+&emsp;
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
+
+
+### Frameworks
+&emsp;
+![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas)
+![PySpark](https://img.shields.io/badge/-PySpark-000?&logo=PySpark)
+![Springboot](https://img.shields.io/badge/-Springboot-000?&logo=Springboot)
+
+
+### Bases de datos:
+&emsp;
+![Oracle DB](https://img.shields.io/badge/-OracleDatabase-000?&logo=Oracle)
+![SQL Server](https://img.shields.io/badge/-Sql%20Server-000?&logo=microsoft-sql-server)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+
+
+### Análisis de Datos
+&emsp;
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=PowerBI&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)
+
+### Herramientas:
+&emsp;
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
+![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
+
+
+&emsp;
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
