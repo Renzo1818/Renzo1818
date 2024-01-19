@@ -32,7 +32,7 @@
 <td width="50%">
 <h3 align="center">DATA PIPELINE Y ANALÍTICA: COVID-19 - Perú</h3>
 <div align="center">
-<a href="https://github.com/Renzo1818/ETL-COVID" target="_blank"><img src="https://renzo1818.github.io/RenzoZavaletaReyes.github.io/images/dashboard%20mapa.png" width="400" alt="Análisis de BIG DATA: COVID19"></a>
+<a href="https://github.com/Renzo1818/ETL-COVID" target="_blank"><img src="https://renzo1818.github.io/RenzoZavaletaReyes.github.io/images/DATA%20FACTORY.png" width="400" alt="Análisis de BIG DATA: COVID19"></a>
 <p>
 <a href="https://github.com/Renzo1818/ETL-COVID" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -66,7 +66,7 @@
 <td width="50%">
 <h3 align="center">Análisis de BIG DATA: COVID-19 - Perú</h3>
 <div align="center">
-<a href="https://github.com/Renzo1818/Analisis-Datos-COVID19" target="_blank"><img src="https://renzo1818.github.io/RenzoZavaletaReyes.github.io/images/dashboard%20mapa.png" width="400" alt="Análisis de BIG DATA: COVID19"></a>
+<a href="https://github.com/Renzo1818/Analisis-Datos-COVID19" target="_blank"><img src="https://renzo1818.github.io/RenzoZavaletaReyes.github.io/images/DASHBOARD%20POSITIVOS.png" width="400" alt="Análisis de BIG DATA: COVID19"></a>
 <p>
 <a href="https://github.com/Renzo1818/Analisis-Datos-COVID19" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
