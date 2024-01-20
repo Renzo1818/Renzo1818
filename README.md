@@ -44,15 +44,15 @@
 </td>       
 
 <td width="50%">
-<h3 align="center">Base de datos para un Gimnasio</h3>
+<h3 align="center">DISEÑO DE UN MODELO PREDICTIVO: APROBACIÓN DE PRÉSTAMOS MONETARIOS</h3>
 <div align="center">
-<a href="https://github.com/Renzo1818/Portafolio_RenzoZavaleta/tree/main/DISE%C3%91O%20BD%20-%20GIMNASIO" target="_blank"><img src="https://renzo1818.github.io/RenzoZavaletaReyes.github.io/images/mssqlserver.png" width="400" alt="Sistema de venta"></a>
+<a href="https://github.com/Renzo1818/Modelo-Predictivo-Azure" target="_blank"><img src="https://renzo1818.github.io/RenzoZavaletaReyes.github.io/images/DISE%C3%91O%20ARBOL%20DE%20DECISIONES%20PRESTAMOS.png" width="400" alt="Modelo predictivo"></a>
 <p>
-<a href="https://github.com/Renzo1818/Portafolio_RenzoZavaleta/tree/main/DISE%C3%91O%20BD%20-%20GIMNASIO" target="_blank">
+<a href="https://github.com/Renzo1818/Modelo-Predictivo-Azure" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Creación del <strong>modelo relacional</strong> de la base de datos, <strong>tablas, constraints, vistas, procedimientos almacenados, funciones, triggers</strong> , entre otros.</p>
+<p>El presente proyecto tiene como objetivo diseñar un <strong> modelo predictivo para hallar si ciertos clientes de una entidad financiera son aptos para recibir un préstamo monetario</strong>. Se realizó bajo la <strong>arquitectura de aprendiza automático de Azure, Data Factory, Databricks, Azure Machine Learning, entre otros servicios de Azure</strong>.</p>
 </div>
                                                                                       
 </td>  
