@@ -18,7 +18,7 @@
 
 <br>
 
-- Data Analyst | ETL process
+- Data Analyst | Data Engineer | ETL process | Power BI data visualization | Predictive model design
 - Tengo un [Portafolio de proyectos personales](https://renzo1818.github.io/RenzoZavaleta.github.io/) con todos los proyectos realizados a lo largo de mi carrera
 - Actualmente, estoy abierto a una nueva oportunidad laboral, este es mi [Linkedin](https://www.linkedin.com/in/renzo-zavaleta-reyes/)
 
