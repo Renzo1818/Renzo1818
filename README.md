@@ -64,20 +64,6 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Análisis de BIG DATA: COVID-19 - Perú</h3>
-<div align="center">
-<a href="https://github.com/Renzo1818/Analisis-Datos-COVID19" target="_blank"><img src="https://renzo1818.github.io/RenzoZavaletaReyes.github.io/images/DASHBOARD%20POSITIVOS.png" width="400" alt="Análisis de BIG DATA: COVID19"></a>
-<p>
-<a href="https://github.com/Renzo1818/Analisis-Datos-COVID19" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-</p>
-<p>El presente proyecto tiene como objetivo analizar los datos masivos proporcionados por la Plataforma Nacional de Datos Abiertos del MINSA. Entre los datos a analizar estan: casos confirmados COVID-19, registro vacunación, entre otras. Utilizando <strong>Oracle DB 19c, Microsoft Power BI</strong>, entre otros.</p>
-</div>
-                                                                                      
-</td>
-
-<td width="50%">
                <br>
 <h3 align="center">ETL incremental: Northwind</h3>
 <div align="center">                                       
@@ -89,7 +75,22 @@
 </a>
 </p>
 </p>Desarrollo de un ETL incremental utilizando la herramienta de <strong>SQL Server Integration Services</strong> y almacenando los datos en <strong>Data Warehouse en SQL Server</strong>, <strong>automatización de ETL a través de Jobs (SQL Agent)</strong> y análisis de datos utilizando <strong>Power BI</strong>.</p>
-</div>                                                             
+</div>                
+
+                                                                                      
+</td>
+
+<td width="50%">
+<h3 align="center">Análisis de BIG DATA: COVID-19 - Perú</h3>
+<div align="center">
+<a href="https://github.com/Renzo1818/Analisis-Datos-COVID19" target="_blank"><img src="https://renzo1818.github.io/RenzoZavaletaReyes.github.io/images/DASHBOARD%20POSITIVOS.png" width="400" alt="Análisis de BIG DATA: COVID19"></a>
+<p>
+<a href="https://github.com/Renzo1818/Analisis-Datos-COVID19" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>El presente proyecto tiene como objetivo analizar los datos masivos proporcionados por la Plataforma Nacional de Datos Abiertos del MINSA. Entre los datos a analizar estan: casos confirmados COVID-19, registro vacunación, entre otras. Utilizando <strong>Oracle DB 19c, Microsoft Power BI</strong>, entre otros.</p>
+</div>                                       
 </table>                                                                                 
 </div>
 <br>
